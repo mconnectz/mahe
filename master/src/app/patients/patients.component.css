@@ -1,0 +1,19 @@
+.left>mat-toolbar{
+    background-color: lightslategray ;
+    color: snow;
+}
+.flex{
+    display: flex;
+}
+.left{
+    width: 20%;
+
+}
+.right{
+    width: 80%;
+    padding: 20px;
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
